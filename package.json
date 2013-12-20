@@ -1,0 +1,14 @@
+{
+  "name": "dev-require",
+  "version": "0.1.0",
+  "description": "Patch require to load local modules during development",
+  "main": "dev-require.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jpillora/dev-require"
+  },
+  "author": "Jaime Pillora <dev@jpillora.com>",
+  "license": "MIT",
+  "devDependencies": {
+  }
+}
